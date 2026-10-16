@@ -1,0 +1,10 @@
+{
+  "description": "Transforms beverage waste into high-purity recyclables via smart Reverse Vending Machines with AI sorting, real-time telemetry, and user rewards.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
